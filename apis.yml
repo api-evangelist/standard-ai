@@ -47,7 +47,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - Retail
-- Computer-Vision
+- Computer Vision
 - Artificial Intelligence
 - Autonomous Checkout
 - Retail Technology
@@ -58,6 +58,7 @@ tags_raw:
 - Artificial Intelligence
 - Autonomous Checkout
 - Retail Technology
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
